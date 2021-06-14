@@ -2,7 +2,9 @@
 title: "Welcome to my website"
 ---
 Hello! Here is what I look like.
-[IMG_2774](https://user-images.githubusercontent.com/85258770/121968161-c9f76700-cd3f-11eb-978f-bc84ae7f9090.JPG)
+---
+![image](https://user-images.githubusercontent.com/85258770/121968161-c9f76700-cd3f-11eb-978f-bc84ae7f9090.JPG)
+---
 Here is my brag sheet!
 ---
 
