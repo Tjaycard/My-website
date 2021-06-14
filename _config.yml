@@ -2,10 +2,12 @@ gtitle: Welcome to Thomas Jaycard's website
 theme: minima
 author: Thomas Jaycard
 email: Trexking901@icloud.com
-description: I will talk about myself and give you my socials 
+description: My socials 
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+instagram_username: thomas_jaycard2
+phone_number: 732-619-3571
 
 show_excerpts: true # set to false to remove excerpts on the homepage
