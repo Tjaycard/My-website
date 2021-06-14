@@ -7,7 +7,7 @@ phone_number: 732-619-3571
 
 
 # social links
-github_username:                        Tjaycard # DO NOT include the @ character, or else the build will fail!
-instagram_username:                     thomas_jaycard2
+github_username:     Tjaycard # DO NOT include the @ character, or else the build will fail!
+instagram_username:  thomas_jaycard2
 
 show_excerpts: true # set to false to remove excerpts on the homepage
